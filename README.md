@@ -1,2 +1,2 @@
-# GuEe-OS
+# GuEeOS
 64-bit Operating System
