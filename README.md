@@ -1,7 +1,7 @@
 # GuEeOS
 
 <img src="https://img.shields.io/badge/weibo-唉呦呵喂-ff5722.svg?style=plastic" />
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=plastic)
 ![License](https://img.shields.io/badge/license-GPL%203.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
 ![GuEeOS](https://badgen.net/github/stars/guee-gui/GuEeOS)
