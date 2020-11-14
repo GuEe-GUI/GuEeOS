@@ -4,7 +4,29 @@
 
 __A 64-bit Operating System. It's open source, just do it!__
 
-e-mail: geeesgui@gmail.com / 2991707448@qq.com
+__E-mail: geeesgui@gmail.com / 2991707448@qq.com__
+
+## Build Tools
+* C/CPP elf Tools
+    * x86-64
+        * Windows Tools: you can get a releases by `lordmilko` [i686-elf-tools](https://github.com/lordmilko/i686-elf-tools/releases)
+        * Unix/Linux Tools: I think it is easy for you to get them in terminal.
+    * arm64
+        * Windows Tools: [arm-elf-gcc](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a/downloads)
+        * Unix/Linux Tools: like x86_64.
+    * riscv64
+        * Windows/Unix/Linux Tools: [riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
+* Package Tools
+    * genisoimage
+    * mkfs.dos
+    * mtools
+    * grub2
+* Virtual Machine
+    * [Qemu](https://www.qemu.org/) (Default in GuEeOS Dev)
+    * [VirtualBox](https://www.virtualbox.org/)
+    * [Bochs](http://bochs.sourceforge.net/)
+    * [VMware](https://www.vmware.com/)
+
 
 ```C
 #include <stdio.h>
